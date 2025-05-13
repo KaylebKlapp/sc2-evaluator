@@ -176,4 +176,6 @@ cython_debug/
 
 # Starcraft replay files
 *.SC2Replay
-
+*.abt
+.vscode/launch.json
+archive_datasets/output.csv
